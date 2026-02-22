@@ -1,3 +1,5 @@
+https://def9e466-0cf0-4adb-8b9d-3b7a926bb24f.lovableproject.com/src/assets/infographic-tech.png
+
 # 🧠 Universal AI Agent State Machine
 
 Универсальный фреймворк для создания автономных AI-агентов на базе LLM (OpenAI, Anthropic, и др.), построенный на архитектуре **State Machine** (Конечный автомат) с поддержкой **обязательной рефлексии** и **сохранением состояния**.
