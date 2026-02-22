@@ -1,4 +1,4 @@
-[![Анатомия ИИ-агента](https://def9e466-0cf0-4adb-8b9d-3b7a926bb24f.lovableproject.com/src/assets/infographic-tech.png)](https://def9e466-0cf0-4adb-8b9d-3b7a926bb24f.lovableproject.com/src/assets/infographic-tech.png)
+[![Анатомия ИИ-агента](https://def9e466-0cf0-4adb-8b9d-3b7a926bb24f.lovableproject.com/src/assets/infographic-tech.png)
 
 # 🧠 Universal AI Agent State Machine
 
